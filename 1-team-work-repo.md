@@ -4,9 +4,11 @@
 
 2.1 ให้จับกลุ่มสำหรับกลุ่มการทดลองนี้ ตามกลุ่มที่จะทำโปรเจคในวิชา Software Developing Fundamental
 
+<p align="center">  <img src="Pictures/pic-02-04.png" style=height:200px;"> </p>
+
 2.2 ให้นักศึกษาคนหนึ่งทำหน้าที่หัวหน้าทีม ที่เหลือเป็นลูกทีม
 
-<p align="center">  <img src="Pictures/pic-02-04.png" style=height:400px;"> </p>
+<p align="center">  <img src="Pictures/pic-02-05.png" style=height:300px;"> </p>
 
 2.3 ให้หัวหน้าทีมสร้าง repo ใน account ของตนเอง
 
