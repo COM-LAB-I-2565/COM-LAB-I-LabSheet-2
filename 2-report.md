@@ -13,7 +13,7 @@
 |3| ชื่อเรื่อง  |Link |
 |4| ชื่อเรื่อง  |Link |
 |5| ชื่อเรื่อง  |Link |
-|ุ6| ชื่อเรื่อง  |Link |
+|ุ6| Fortune-Cooking  |Link|(https://github.com/JASDA0000/Fortune-Cooking.git)
 |7| ชื่อเรื่อง  |Link |
 |8| ชื่อเรื่อง  |Link |
 |9| ชื่อเรื่อง  |Link |
